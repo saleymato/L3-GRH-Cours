@@ -254,8 +254,7 @@ Voir [`LICENSE`](./LICENSE) pour les détails complets.
 
 ## 👨‍🏫 Auteur & Maintenance
 
-**Idrissa Saley Mato**  
-Chercheur & Enseignant  
+**Saley Mato Idrissa**  
 Université Abdou Moumouni, Niamey  
 [@saleymato](https://github.com/saleymato)
 
@@ -281,5 +280,5 @@ Ressource développée dans un environnement aux ressources contraintes, optimis
 
 ---
 
-*Last updated: 2026-05-05*  
+*Last updated: 2026-05-06*  
 *Version: 1.0-initial*
